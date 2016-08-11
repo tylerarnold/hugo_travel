@@ -6,12 +6,10 @@ draft = false
 image = "images/Iceland_2013/ice1.jpg"
 share = true
 slug = "iceland"
-tags = ["international","Iceland","travel","2013"]
+tags = ["international","Iceland","travel","2013","europe"]
 title = "Iceland"
 type = "page"
 menu = "main"
-# identifier = "Iceland_2013"
-# parent = "2013"
 weight = 110
 +++
 
