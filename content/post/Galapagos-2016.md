@@ -10,8 +10,6 @@ tags = ["Galapagos", "international","South America","travel","2016"]
 title = "Galapagos Islands"
 type = "page"
 menu = "main"
-# identifier = "Galapagos_Islands_May_2016"
-# parent = "2016"
 weight = 110
 
 +++
