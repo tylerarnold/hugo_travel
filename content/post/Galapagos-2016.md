@@ -1,7 +1,7 @@
 +++
 author = ""
 comments = true
-date = "2016-08-11T11:37:12-05:00"
+date = "2016-05-11T11:37:12-05:00"
 draft = false
 image = "images/Galapagos_2016/Neesha_dock.jpg"
 share = true
@@ -10,7 +10,7 @@ tags = ["Galapagos", "international","South America","travel","2016"]
 title = "Galapagos Islands"
 type = "page"
 menu = "main"
-weight = 110
+weight = 2
 
 +++
 
