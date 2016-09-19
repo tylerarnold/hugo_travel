@@ -7,13 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Thu, 11 Aug 2016 17:44:41 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 19 Sep 2016 09:06:07 -0500</lastBuildDate>
     <atom:link href="https://tylerarnold.github.io/hugo_travel/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Olympic National Park and Seattle 2016</title>
+      <link>https://tylerarnold.github.io/hugo_travel/post/Olympic%20NP/</link>
+      <pubDate>Mon, 19 Sep 2016 09:06:07 -0500</pubDate>
+      
+      <guid>https://tylerarnold.github.io/hugo_travel/post/Olympic%20NP/</guid>
+      <description>&lt;p&gt;we went to Olympic National Park and Seattle for Neesha&amp;rsquo;s birthday in September.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Galapagos Islands</title>
+      <link>https://tylerarnold.github.io/hugo_travel/post/galapagos/</link>
+      <pubDate>Wed, 11 May 2016 11:37:12 -0500</pubDate>
+      
+      <guid>https://tylerarnold.github.io/hugo_travel/post/galapagos/</guid>
+      <description>&lt;p&gt;We went to the Galapagos islands in May 2016&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Zealand</title>
+      <link>https://tylerarnold.github.io/hugo_travel/post/newzealand/</link>
+      <pubDate>Fri, 11 Sep 2015 11:56:36 -0500</pubDate>
+      
+      <guid>https://tylerarnold.github.io/hugo_travel/post/newzealand/</guid>
+      <description>&lt;p&gt;we went to New Zealand in September 2016 for our honeymoon.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Berlin</title>
       <link>https://tylerarnold.github.io/hugo_travel/post/berlin/</link>
-      <pubDate>Thu, 11 Aug 2016 17:44:41 -0500</pubDate>
+      <pubDate>Fri, 20 Sep 2013 17:44:41 -0500</pubDate>
       
       <guid>https://tylerarnold.github.io/hugo_travel/post/berlin/</guid>
       <description>&lt;p&gt;I went to Berlin in September 2013&lt;/p&gt;
@@ -23,7 +53,7 @@
     <item>
       <title>Norway</title>
       <link>https://tylerarnold.github.io/hugo_travel/post/norway/</link>
-      <pubDate>Thu, 11 Aug 2016 17:44:32 -0500</pubDate>
+      <pubDate>Sun, 15 Sep 2013 17:44:32 -0500</pubDate>
       
       <guid>https://tylerarnold.github.io/hugo_travel/post/norway/</guid>
       <description>&lt;p&gt;I went to Norway in September 2013&lt;/p&gt;
@@ -33,30 +63,10 @@
     <item>
       <title>Iceland</title>
       <link>https://tylerarnold.github.io/hugo_travel/post/iceland/</link>
-      <pubDate>Thu, 11 Aug 2016 11:57:05 -0500</pubDate>
+      <pubDate>Wed, 11 Sep 2013 11:57:05 -0500</pubDate>
       
       <guid>https://tylerarnold.github.io/hugo_travel/post/iceland/</guid>
       <description>&lt;p&gt;we went to Iceland in September 2013.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Zealand</title>
-      <link>https://tylerarnold.github.io/hugo_travel/post/newzealand/</link>
-      <pubDate>Thu, 11 Aug 2016 11:56:36 -0500</pubDate>
-      
-      <guid>https://tylerarnold.github.io/hugo_travel/post/newzealand/</guid>
-      <description>&lt;p&gt;we went to New Zealand in September 2016 for our honeymoon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Galapagos Islands</title>
-      <link>https://tylerarnold.github.io/hugo_travel/post/galapagos/</link>
-      <pubDate>Thu, 11 Aug 2016 11:37:12 -0500</pubDate>
-      
-      <guid>https://tylerarnold.github.io/hugo_travel/post/galapagos/</guid>
-      <description>&lt;p&gt;We went to the Galapagos islands in May 2016&lt;/p&gt;
 </description>
     </item>
     
