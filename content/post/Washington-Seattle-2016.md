@@ -13,14 +13,12 @@ weight = 1
 +++
 
 {{< gallery title="Olympic National Park" >}}
-
 {{% galleryimage file="c8.staticflickr.com/9/8403/29064009623_f1eabdd465_h.jpg" size="1600x1067" caption="On a boat"
- copyrightHolder="Tyler Arnold" %}}
+copyrightHolder="Tyler Arnold" %}}
 {{% galleryimage file="c4.staticflickr.com/9/8409/29686703955_0fd14896eb_h.jpg" size="1600x1067" caption="On a boat"
-  copyrightHolder="Tyler Arnold" %}}
-
+ copyrightHolder="Tyler Arnold" %}}
 {{< /gallery >}}
 
 {{% galleryinit %}}
 
- we went to Olympic National Park and Seattle for Neesha's birthday in September.
+we went to Olympic National Park and Seattle for Neesha's birthday in September.
