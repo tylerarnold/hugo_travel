@@ -8,119 +8,17 @@
     <language>en-us</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Mon, 19 Sep 2016 09:06:07 -0500</lastBuildDate>
-    <atom:link href="https://tylerarnold.github.io/hugo_travel/tags/olympic-national-park/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tylerarnold.github.io/hugo_travel/tags/olympic-national-park/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Olympic National Park and Seattle 2016</title>
-      <link>https://tylerarnold.github.io/hugo_travel/post/Olympic%20NP/</link>
+      <link>https://tylerarnold.github.io/hugo_travel/post/olympic-np/</link>
       <pubDate>Mon, 19 Sep 2016 09:06:07 -0500</pubDate>
       
-      <guid>https://tylerarnold.github.io/hugo_travel/post/Olympic%20NP/</guid>
-      <description>&lt;div class=&#34;gallery&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
-
-
-
-
-&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-  &lt;a href=&#34;//c8.staticflickr.com/9/8403/29064009623_f1eabdd465_h.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1067&#34;&gt;
-      &lt;img src=&#34;///c8.staticflickr.com/9/8403/29064009623_f1eabdd465_h.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;On a boat&#34; /&gt;
-  &lt;/a&gt;
-
-
-  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    On a boat
-    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;Tyler Arnold&lt;/span&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-
-
-&lt;figure itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
-  &lt;a href=&#34;//c4.staticflickr.com/9/8409/29686703955_0fd14896eb_h.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1067&#34;&gt;
-      &lt;img src=&#34;///c4.staticflickr.com/9/8409/29686703955_0fd14896eb_h.jpg&#34; itemprop=&#34;thumbnail&#34; alt=&#34;On a boat&#34; /&gt;
-  &lt;/a&gt;
-
-
-  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    On a boat
-    &lt;span itemprop=&#34;copyrightHolder&#34;&gt;Tyler Arnold&lt;/span&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;div class=&#34;title&#34;&gt;Olympic National Park&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://tylerarnold.github.io/hugo_travel/css/photoswipe.css&#34;&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://tylerarnold.github.io/hugo_travel/css/default-skin/default-skin.css&#34;&gt;
-&lt;script src=&#34;https://tylerarnold.github.io/hugo_travel/js/photoswipe.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://tylerarnold.github.io/hugo_travel/js/photoswipe-ui-default.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://tylerarnold.github.io/hugo_travel/js/initphotoswipe.js&#34;&gt;&lt;/script&gt;
-
-
-
-&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
-
-&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
-
-&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
-    
-    &lt;div class=&#34;pswp__container&#34;&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    
-    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
-    &lt;div class=&#34;pswp__top-bar&#34;&gt;
-      
-      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
-      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
-      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
-      
-      
-      &lt;div class=&#34;pswp__preloader&#34;&gt;
-        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
-          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
-            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
-      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
-    &lt;/button&gt;
-    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
-    &lt;/button&gt;
-    &lt;div class=&#34;pswp__caption&#34;&gt;
-      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;style&gt;
-    .gallery { float: right; }
-    .gallery img { width: 100%; height: auto; }
-    .gallery figure { display: block; float: left; margin: 0 5px 5px 0; width: 80px; }
-    .gallery figcaption { display: none; }
-    span[itemprop=&#34;copyrightHolder&#34;] { color : #888; float: right; }
-    span[itemprop=&#34;copyrightHolder&#34;]:before { content: &#34;Foto: &#34;; }
-&lt;/style&gt;
-
-
-&lt;script&gt;initPhotoSwipeFromDOM(&#39;.gallery&#39;);&lt;/script&gt;
-&lt;/p&gt;
-
-&lt;p&gt;we went to Olympic National Park and Seattle for Neesha&amp;rsquo;s birthday in September.&lt;/p&gt;
-</description>
+      <guid>https://tylerarnold.github.io/hugo_travel/post/olympic-np/</guid>
+      <description>we went to Olympic National Park and Seattle for Neesha&amp;rsquo;s birthday in September.</description>
     </item>
     
   </channel>

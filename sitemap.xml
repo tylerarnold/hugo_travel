@@ -2,13 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tylerarnold.github.io/hugo_travel/</loc>
-    <lastmod>2016-09-19T09:06:07-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://tylerarnold.github.io/hugo_travel/post/japan/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tylerarnold.github.io/hugo_travel/post/Olympic%20NP/</loc>
+    <loc>https://tylerarnold.github.io/hugo_travel/post/arizona-and-utah/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/post/olympic-np/</loc>
     <lastmod>2016-09-19T09:06:07-05:00</lastmod>
   </url>
   
@@ -35,6 +39,167 @@
   <url>
     <loc>https://tylerarnold.github.io/hugo_travel/post/iceland/</loc>
     <lastmod>2013-09-11T11:57:05-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/2013/</loc>
+    <lastmod>2013-09-20T17:44:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/2015/</loc>
+    <lastmod>2015-09-11T11:56:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/2016/</loc>
+    <lastmod>2016-05-11T11:37:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/2017/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/arizona/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/berlin/</loc>
+    <lastmod>2013-09-20T17:44:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/europe/</loc>
+    <lastmod>2013-09-15T17:44:32-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/galapagos/</loc>
+    <lastmod>2016-05-11T11:37:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/germany/</loc>
+    <lastmod>2013-09-20T17:44:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/hiking/</loc>
+    <lastmod>2016-09-19T09:06:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/iceland/</loc>
+    <lastmod>2013-09-11T11:57:05-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/international/</loc>
+    <lastmod>2016-05-11T11:37:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/japan/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/national-parks/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/new-zealand/</loc>
+    <lastmod>2015-09-11T11:56:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/norway/</loc>
+    <lastmod>2013-09-15T17:44:32-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/olympic-national-park/</loc>
+    <lastmod>2016-09-19T09:06:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/post/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/seattle/</loc>
+    <lastmod>2016-09-19T09:06:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/south-america/</loc>
+    <lastmod>2016-05-11T11:37:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/</loc>
+    <lastmod>2013-09-20T17:44:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/travel/</loc>
+    <lastmod>2016-05-11T11:37:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/utah/</loc>
+    <lastmod>2017-10-16T13:43:35-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/washington-state/</loc>
+    <lastmod>2016-09-19T09:06:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tylerarnold.github.io/hugo_travel/tags/whale-watch/</loc>
+    <lastmod>2016-09-19T09:06:07-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

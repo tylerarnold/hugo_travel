@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017 on Tyler and Neesha Travel Blog</title>
+    <link>https://tylerarnold.github.io/hugo_travel/tags/2017/</link>
+    <description>Recent content in 2017 on Tyler and Neesha Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Mon, 16 Oct 2017 13:43:35 -0500</lastBuildDate>
+    
+	<atom:link href="https://tylerarnold.github.io/hugo_travel/tags/2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arizona Utah 2017</title>
+      <link>https://tylerarnold.github.io/hugo_travel/post/arizona-and-utah/</link>
+      <pubDate>Mon, 16 Oct 2017 13:43:35 -0500</pubDate>
+      
+      <guid>https://tylerarnold.github.io/hugo_travel/post/arizona-and-utah/</guid>
+      <description>We went to the Grand Canyon, etc, in May of 2017.</description>
+    </item>
+    
+    <item>
+      <title>Japan 2017</title>
+      <link>https://tylerarnold.github.io/hugo_travel/post/japan/</link>
+      <pubDate>Mon, 16 Oct 2017 13:43:35 -0500</pubDate>
+      
+      <guid>https://tylerarnold.github.io/hugo_travel/post/japan/</guid>
+      <description>We went to Japan in September 2017.</description>
+    </item>
+    
+  </channel>
+</rss>

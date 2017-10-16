@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>All rights reserved - 2016</copyright>
     <lastBuildDate>Wed, 11 May 2016 11:37:12 -0500</lastBuildDate>
-    <atom:link href="https://tylerarnold.github.io/hugo_travel/tags/international/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://tylerarnold.github.io/hugo_travel/tags/international/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Galapagos Islands</title>
@@ -16,8 +18,7 @@
       <pubDate>Wed, 11 May 2016 11:37:12 -0500</pubDate>
       
       <guid>https://tylerarnold.github.io/hugo_travel/post/galapagos/</guid>
-      <description>&lt;p&gt;We went to the Galapagos islands in May 2016&lt;/p&gt;
-</description>
+      <description>We went to the Galapagos islands in May 2016</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Fri, 11 Sep 2015 11:56:36 -0500</pubDate>
       
       <guid>https://tylerarnold.github.io/hugo_travel/post/newzealand/</guid>
-      <description>&lt;p&gt;we went to New Zealand in September 2016 for our honeymoon.&lt;/p&gt;
-</description>
+      <description>we went to New Zealand in September 2016 for our honeymoon.</description>
     </item>
     
     <item>
@@ -36,8 +36,7 @@
       <pubDate>Fri, 20 Sep 2013 17:44:41 -0500</pubDate>
       
       <guid>https://tylerarnold.github.io/hugo_travel/post/berlin/</guid>
-      <description>&lt;p&gt;I went to Berlin in September 2013&lt;/p&gt;
-</description>
+      <description>I went to Berlin in September 2013</description>
     </item>
     
     <item>
@@ -46,8 +45,7 @@
       <pubDate>Wed, 11 Sep 2013 11:57:05 -0500</pubDate>
       
       <guid>https://tylerarnold.github.io/hugo_travel/post/iceland/</guid>
-      <description>&lt;p&gt;we went to Iceland in September 2013.&lt;/p&gt;
-</description>
+      <description>we went to Iceland in September 2013.</description>
     </item>
     
   </channel>
